@@ -15,3 +15,8 @@ Usage
 1. Launch the Virtual Paint application.
 2. Select your preferred brush style, color, and texture.
 3. Use your fingers to draw on the canvas.
+
+Output:
+
+![Screenshot (59)](https://github.com/pranavmaurya/virtual_paint/assets/85123163/e5640c3f-1d74-452b-9a61-49c4f5aa58d1)
+
